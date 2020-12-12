@@ -1,0 +1,24 @@
+#formulario1{
+    width: 300px;
+    margin: auto;
+    padding-top: 40px;
+    
+}
+form{
+    border: solid black 1px;
+    
+    
+}
+#contenidoForm{
+    padding: 13px;
+}
+
+#tituloForm{
+    background-color:  #ec5527;
+    border: black solid 1px;
+    width: 100%;
+}
+
+label{
+    margin: 13px;
+}
