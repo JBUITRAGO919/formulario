@@ -4,8 +4,9 @@ function validar(){
 
     if (correo =="jbuitrago919@misena.edu.co" && contraseña == 1234) {
         console.log("Bienvenido")
-
-        location.
+        
+        function bienve(){window.location.href = ("https://professor-falken.com/programacion/javascript/como-redirigir-o-redireccionar-a-otra-pagina-web-en-javascript/") }
+        bienve();
         
         
     } else {
